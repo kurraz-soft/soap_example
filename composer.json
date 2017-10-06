@@ -1,0 +1,15 @@
+{
+  "name": "kurraz-soft/soap",
+  "description": "test soap server",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kurraz",
+      "email": "elfd01@gmail.com"
+    }
+  ],
+  "require": {
+    "piotrooo/wsdl-creator": "1.4.2"
+  }
+}
